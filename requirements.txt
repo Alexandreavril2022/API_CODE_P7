@@ -8,3 +8,4 @@ gunicorn
 Jinja2
 lightgbm
 dill
+numpy==1.24
